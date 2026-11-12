@@ -6,7 +6,7 @@ source:
 ---
 # Reaction
 
-When opposite elements touch, both cells vanish (`findReactions` marks them, `resolveReactions` removes them) and score 10 points per cell times the chain number. It is the game's signature mechanic: it clears space without needing a full row, and it leaves unsupported blocks behind.
+When opposite elements touch, or plasma touches any other element (named "Descarga de plasma"), both cells vanish (`findReactions` marks them, `resolveReactions` removes them) and score 10 points per cell times the chain number. It is the game's signature mechanic: it clears space without needing a full row, and it leaves unsupported blocks behind.
 
 ## Structural
 - depends on → [[Opposite pair]]

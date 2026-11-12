@@ -1,6 +1,6 @@
 # tetris-elemental-vault
 
-Typed, directed knowledge graph for Tetris Elemental (the four-element Tetris in
+Typed, directed knowledge graph for Tetris Elemental (the five-element Tetris in
 `../game/index.html`, plus its neon variant in `../game-neon/index.html`). Read `00-START-HERE.md` before working here (vault
 mechanics) and `architecture-overview.md` for product orientation. Conventions
 that are easy to break:
