@@ -8,10 +8,10 @@ every claim is `Tetris/game/index.html` (classic) and
 
 ## What is Tetris Elemental
 
-A Tetris where every piece is made of one of four elements — fire, water,
-earth or air. Classic rules apply (10×20 board, seven tetrominoes, line
+A Tetris where every piece is made of one of five elements — fire, water,
+earth, air or plasma. Classic rules apply (10×20 board, seven tetrominoes, line
 clears), plus one governing rule: **opposite elements annihilate on contact**.
-Fire cancels water, earth cancels air. Whatever is left falls, which can
+Fire cancels water, earth cancels air, and plasma cancels any other element. Whatever is left falls, which can
 trigger further reactions. It is a single-player browser game, a proof of
 concept.
 
@@ -59,7 +59,7 @@ flowchart LR
 ## What is designed but not live
 
 - [[Element traits]] — per-element behaviours (faster earth, slower air, water
-  that settles). Proposed only; all four elements currently behave the same.
+  that settles). Proposed only; all five elements currently behave the same.
 - [[Cascade trivializes difficulty]] — a suspected balance problem, unmeasured.
   Treat as a hypothesis until someone plays enough to confirm.
 - [[Variant drift]] — classic and neon could diverge if a rule change is made in

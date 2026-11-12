@@ -6,7 +6,7 @@ source:
 ---
 # Element traits
 
-Idea, not built: give each element a distinct behaviour beyond its colour and its opposite, for example earth falling faster and air falling slower, or water settling into holes. Today all four elements fall and behave identically except for which neighbour they annihilate. Do not describe these traits as existing gameplay.
+Idea, not built: give each element a distinct behaviour beyond its colour and its opposite, for example earth falling faster and air falling slower, or water settling into holes. Today all five elements fall and behave identically except for which neighbour they annihilate (plasma annihilates any non-plasma neighbour). Do not describe these traits as existing gameplay.
 
 ## Structural
 - depends on → [[Element]]
